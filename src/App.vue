@@ -3,8 +3,8 @@
 </script>
 
 <template>
-  <div>
-
+  <div class="body-warper">
+    <RouterView/>
   </div>
 </template>
 
